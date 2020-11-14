@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*Demo.php
+**/vendor/
+composer.lock
+*Local.php
+docTableData.txt
+*DemoRaw.txt
+*demoResult.txt
